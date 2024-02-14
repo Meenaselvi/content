@@ -1,0 +1,21 @@
+
+<!--day 1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New web development</title>
+</head>
+<body>
+    <p class="New challenge">This is my new <strong>challenge</strong></p>
+    <img src="C:\Users\Meena Ravi\OneDrive\Pictures\College life\IMG_20210923_160116.jpg" alt="Nothing" width="300" height="300"/>
+    <input type="text" disabled="disabled"/>
+    <input type="text">
+    <a href="https://www.mozilla.org"/>favorite website</a>
+    <a href=https://www.mozilla.org title ="Is not in the link">favorite website</a>
+    <p id="whitespace">HELLO 
+        WORLD</p>
+
+</body>
+</html>
